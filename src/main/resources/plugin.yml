@@ -1,0 +1,7 @@
+name: SimpleGraves
+version: '${version}'
+main: dev.novatea.simplegraves.SimpleGraves
+api-version: '1.21'
+prefix: Simple Graves
+authors: [ Aelithron ]
+description: A powerful graves plugin that doesn't overcomplicate.
